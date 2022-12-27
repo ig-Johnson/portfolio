@@ -9,7 +9,7 @@ body {
 header{
     margin: 0;
     width: 100%;
-    background-color: #91D8E4;
+    background-color: #59C1BD;
     padding: 10px 0;
 }
 
@@ -84,7 +84,7 @@ footer{
 .bottom-container{
     background-color:#59C1BD;
     text-align: center;
-    color: #00f;
+    color:black;
     padding-top: 20px;
     width: 100%;
     position: absolute;
@@ -117,9 +117,9 @@ a {
 hr{
     border-style: none;
     border-top-style:dotted ;
-    border-color: #00ABB3;
+    border-color: #D3D3D3;
     border-width: 5px;
-    width: 5px;
+    width: 5%;
 
 }
 .hr2{
